@@ -1,0 +1,2 @@
+# pancoin
+Solana PanCoin
